@@ -51,5 +51,8 @@ swisseph.julday(date.year, date.month, date.day, date.hour, swisseph.GREG_CAL, f
 
 http://pythonhosted.org/pyswisseph/
 
+##Version
+Version 2.0 of the Swiss Ephemeris
+
 ##License
 GNU public license version 2 or later
